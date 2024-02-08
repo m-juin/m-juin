@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fr.linkedin.com/in/mickael-juin16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael juin" height="30" width="40" /></a>
+<a href="https://arakinos.itch.io" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="mickael juin" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
