@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FT_Vox**
 
-- 🌱 I’m currently learning **Vulkan** and **Procedural generation**
+- 🌱 I’m currently learning **Vulkan** and **Procedural Generation**
 
 - 📫 How to reach me **mickael.juin.16@gmail.com**
 
