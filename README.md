@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-juin&label=Profile%20views&color=0e75b6&style=flat" alt="m-juin" /> </p>
 
-- 🔭 I’m currently working on **Scop**
+- 🔭 I’m currently working on **FT_Vox**
 
-- 🌱 I’m currently learning **Opengl**
+- 🌱 I’m currently learning **Vulkan** and **Procedural generation**
 
 - 📫 How to reach me **mickael.juin.16@gmail.com**
 
