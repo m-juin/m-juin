@@ -1,9 +1,7 @@
 ## À propos
  
 Étudiant à l'école 42 d'Angoulême, je me spécialise dans l'architecture système, le DevOps et les infrastructures réseaux.
-Après un premier stage et plusieurs projets techniques post-tronc commun, je cherche une alternance pour valider un titre RNCP 7 "Expert en Architecture Informatique".
- 
-Mon profil allie une solide base en programmation bas niveau (C/C++) et une montée en compétence sur les outils d'infrastructure moderne : conteneurisation, orchestration et automatisation.
+Après un premier stage et plusieurs projets techniques post-tronc commun, je cherche une alternance pour valider un titre RNCP 7 "Expert en Architecture Informatique"
  
 ---
  
